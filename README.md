@@ -7,7 +7,7 @@
 ✉️ **Email:** anjalimasali05@gmail.com
 
 
-# 📝 Blog Community Platform
+# 📝 Community-Blog-Platform
 
 ## 📖 Introduction
 
